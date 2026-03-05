@@ -12,11 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Cpp, DSA**
+- 🌱 I’m currently learning **RAG, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodeCrafterAdyasha](https://github.com/CodeCrafterAdyasha)
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, HTML, CSS, ReactJS, JS, Cpp, JAVA, Mediapipe**
 
 - 📫 How to reach me **adyasha.biswal125@gmail.com**
 
